@@ -1,0 +1,15 @@
+body{
+    background-color: rebeccapurple;
+}
+#Score{
+font-size: medium;
+margin-left: -1200px;
+}
+#timer{
+font-size: medium;
+float: right;
+margin-right: 200px;
+}
+#stbd{
+    color: bisque;
+}
